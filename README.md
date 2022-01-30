@@ -1,3 +1,3 @@
 # Anti Phishing Link Bot
 
-Discord bot to protect your server form grab links!
+Discord bot to protect your server from grab links!
